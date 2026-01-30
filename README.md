@@ -12,8 +12,8 @@ The objective was to study and analyze the app’s order data to uncover key pat
 ### Process
 1. Explored the Dataset:
    - Viewed all records by using dspro.swiggy; table to understand its structure and contents.
-   ```sql
-    SELECT * FROM dspro.swiggy;
+      ```sql
+      SELECT * FROM dspro.swiggy;
 2. Handled Duplicate Records:
    - Identified duplicate rows by counting repeated ids.
      ```sql
