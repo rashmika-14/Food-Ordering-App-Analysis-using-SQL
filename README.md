@@ -6,7 +6,7 @@
 - [Tools](#tools)
 - [Key Insights](#key-insights)
 ### Project Overview
-This project analyzes the Global Superstore dataset using Tableau to uncover insights into sales performance, profitability, returns, and customer segments across different markets and time periods. The project demonstrates skills in data preparation, calculated fields, advanced visualizations, filters, and dashboard design using Tableau.
+This project involved analyzing the data of a food ordering application to gain insights into customer behavior, order patterns, and sales trends. The goal was to understand how customers interact with the app, which outlets are performing best, and how orders and sales accumulate over time. The analysis helps in identifying trends, monitoring performance, and making data-driven business decisions.
 ### Objective
 The objective was to study and analyze the app’s order data to uncover key patterns such as customer order frequency, outlet performance, and sales distribution.
 ### Process
